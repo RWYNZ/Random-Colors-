@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #2b2b2b;
+}
+#form{
+    height: 5cm;
+    margin-left: 470px;
+    margin-right: 470px;
+    margin-top: 5cm;
+}
+button{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    
+}
